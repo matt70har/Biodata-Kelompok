@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  background-color: lightblue;
+  text-align: center;
+}
+h1 {
+  color: darkblue;
+}
+.foto {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
